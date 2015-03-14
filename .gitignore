@@ -1,5 +1,8 @@
-# Ignore temporary files
+# Ignore temporary files.
 tmp
 *~
 *#
 .#*
+
+# Ignore sass cache folder.
+.sass-cache

@@ -5,4 +5,7 @@ tmp
 .#*
 
 # Ignore sass cache folder.
-.sass-cache
+.sass-cache/
+
+# Ignore vendor folder.
+www/vendor/
